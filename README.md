@@ -19,7 +19,7 @@
 
 また、このソフトウェアのソースコードを二次利用する場合はGPLv3に従う必要があります。この指定は上記ライセンスとの互換性を保つためのものです。
 
-[![GPLv3](https://raw.githubusercontent.com/sitting-cat/infinity-word-wolf/main/doc/gplv3.png)](https://github.com/sitting-cat/infinity-word-wolf/blob/main/LICENSE)
+[![GPLv3](https://raw.githubusercontent.com/sitting-cat/infinity-word-wolf/main/doc/gplv3_logo.png)](https://github.com/sitting-cat/infinity-word-wolf/blob/main/LICENSE)
 
 <!--
 著作権表示は以下を用いてください。
